@@ -27,7 +27,7 @@ java Main.java
 - escape to deselect your selected square
 
 # TODO:
-[-] Clean up the code
-[-] Add a solver to it
-[-] Add a win state to the game object
-[-] Make the keyboard bindings more intuitive
+- [ ] Clean up the code
+- [ ] Add a solver to it
+- [ ] Add a win state to the game object
+- [ ] Make the keyboard bindings more intuitive
